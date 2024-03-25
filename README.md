@@ -11,4 +11,4 @@ Currently working on adding -i, --ignore & -o, --output. Will post that very ver
 ## Current Supported Commands
 -f, --file = Path to the file for duplicates to be removed
 ### Example use
-python RemDup.py -f text.txt
+`python RemDup.py -f text.txt`
